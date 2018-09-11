@@ -3,7 +3,7 @@ def roll_call_dwarves(dwarves)
 end
 
 def summon_captain_planet(elements)
-  # Your code here
+  elements.map{|element| "#{element."
 end
 
 def long_planeteer_calls# code an argument here
